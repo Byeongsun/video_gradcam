@@ -3,5 +3,4 @@ torch
 torchvision
 pillow
 grad-cam
-opencv-python-headless
-
+opencv-python-headless==4.8.1.78
